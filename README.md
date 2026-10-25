@@ -1,17 +1,80 @@
-Hi, I'm Abhishek. I live in Greater Noida, finished my B.Tech in computer science from Galgotias University this year, and right now I'm looking for an entry-level full-stack or software job. Nothing fancy to announce yet, just trying to get good work and learn on the job.
+# Hi, I'm Abhishek Kumar Gautam
 
-Most of my time lately has gone into one project, Music and Movies Show. It began as a movie browsing thing, you know, search a film, see the trailer, that sort of stuff. Then I kept adding to it. Now you can also book seats. I did the flat 2D seat map first because that was the part I could actually get working, and later a 3D theatre view that only opens after you sign in. Favourites, what you watched, and the bookings you confirmed all sit in MongoDB. For the data side I used TMDB, OMDb for extra details, Spotify when it's connected, and YouTube when a trailer isn't available anywhere else. At one point the API calls were just piling up, so I put a limit in place, 120 requests in 60 seconds. That fixed a lot of headaches.
+Full-stack developer from Greater Noida, focused on Next.js, TypeScript, React and MongoDB. B.Tech in Computer Science, Galgotias University (2022–2026), currently open to entry-level software and full-stack roles.
 
-Live: https://music-and-movies-show.vercel.app
-Code: https://github.com/Gautam215/Music-and-Movies-show
+## Technical Skills
 
-Before that I worked on two team projects in college. Campus Connect Portal was a college site in React with modular CSS, I mostly handled the navigation and page transitions and helped test it before it went up on Vercel. Smart Chatbot was earlier, also React, and there I was the one sorting out chat history and state with Redux Toolkit so conversations didn't break on smaller screens.
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-On the side I did some cybersecurity training, Wireshark and Splunk and the basics of threat detection, nothing I would call expert level. And back in 2023 I was a campus ambassador for Tryst at IIT Delhi and somehow ended up ranked first in the country. I still don't quite know how that happened, but I'll take it.
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-If you want the short version of what I use: JavaScript, TypeScript, React, Next.js, Tailwind, Redux Toolkit, Node, Express, MongoDB and Oracle SQL, plus Git, GitHub Actions, Docker, Postman and Vercel. Java, C, C++ and Python are in there too from coursework and smaller bits of work.
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-You can find me on LinkedIn at linkedin.com/in/gautam313, or mail me at ak9724068@gmail.com. I do reply, just not always instantly.
+**Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**Tools & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+**Cybersecurity (foundational)**
+Wireshark · Splunk · Threat Detection · Network Security · Risk Analysis
+
+## Projects
+
+### Music and Movies Show
+**[Live Demo](https://music-and-movies-show.vercel.app) · [Source Code](https://github.com/Gautam215/Music-and-Movies-show)**
+
+Movie, TV and anime discovery and ticket-booking app built with Next.js, TypeScript and MongoDB.
+
+- Browse films, TV and anime with trailers, using TMDB for discovery, OMDb for enrichment, optional Spotify, and YouTube as a trailer fallback.
+- Book seats with a 2D seat map and a sign-in-gated Three.js theatre with five curved seating rows.
+- Email/password sign-in with cookie sessions; MongoDB stores favourites, viewing history and confirmed bookings.
+- GitHub Actions CI and Vercel deployment, with API rate limiting at 120 requests per 60 seconds.
+
+### Campus Connect Portal
+College website built with an Agile team using React and modular CSS.
+
+- Built reusable React components for navigation and page transitions.
+- Tested the site and deployed it on Vercel.
+
+### Smart Chatbot
+AI-powered chat application built with React, modular CSS and Redux Toolkit.
+
+- Managed chat history and application state with Redux Toolkit.
+- Built a responsive interface for multiple screen sizes.
+
+## Achievements & Education
+
+- **Tryst '23, IIT Delhi — Campus Ambassador, ranked #1 nationwide.**
+- **B.Tech, Computer Science — Galgotias University, Greater Noida (2022–2026).**
+- Certifications: Deloitte Australia Cyber Job Simulation, MMGEIS, Prodigy Infotech Cyber Security, Postman API Fundamentals, Oracle Java Fundamentals, Oracle Database Programming with SQL.
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/gautam313
+- Email: ak9724068@gmail.com
 
 ## GitHub Stats
 
