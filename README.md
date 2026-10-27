@@ -1,6 +1,6 @@
 # Hi, I'm Abhishek Kumar Gautam
 
-Full-stack developer from Greater Noida, focused on Next.js, TypeScript, React and MongoDB. B.Tech in Computer Science, Galgotias University (2022–2026), currently open to entry-level software and full-stack roles.
+I'm Abhishek, from Greater Noida. I finished my B.Tech in computer science from Galgotias University in 2026, and I'm looking for an entry-level full-stack job. I like building things people can actually use, not just something that looks good in a screenshot.
 
 ## Technical Skills
 
@@ -46,24 +46,22 @@ Wireshark · Splunk · Threat Detection · Network Security · Risk Analysis
 ### Music and Movies Show
 **[Live Demo](https://music-and-movies-show.vercel.app) · [Source Code](https://github.com/Gautam215/Music-and-Movies-show)**
 
-Movie, TV and anime discovery and ticket-booking app built with Next.js, TypeScript and MongoDB.
+This is the project I spent most of my time on. It started as a simple way to browse movies and watch trailers, then I kept adding to it until you could actually book seats.
 
-- Browse films, TV and anime with trailers, using TMDB for discovery, OMDb for enrichment, optional Spotify, and YouTube as a trailer fallback.
-- Book seats with a 2D seat map and a sign-in-gated Three.js theatre with five curved seating rows.
-- Email/password sign-in with cookie sessions; MongoDB stores favourites, viewing history and confirmed bookings.
-- GitHub Actions CI and Vercel deployment, with API rate limiting at 120 requests per 60 seconds.
+- Search films, TV and anime, with TMDB for discovery, OMDb for extra details, Spotify when it's connected, and YouTube when a trailer isn't available anywhere else.
+- I did the flat 2D seat map first, because that was the part I could get working, and later a 3D theatre view with five curved rows that only opens after you sign in.
+- Favourites, what you watched, and confirmed bookings all sit in MongoDB, with email/password sign-in and cookie sessions.
+- At one point the API calls were just piling up, so I put a limit in place — 120 requests in 60 seconds. That fixed a lot of headaches. It's deployed on Vercel with GitHub Actions CI.
 
 ### Campus Connect Portal
-College website built with an Agile team using React and modular CSS.
+A college site I built with a team, in React with modular CSS.
 
-- Built reusable React components for navigation and page transitions.
-- Tested the site and deployed it on Vercel.
+- I mostly handled the navigation and page transitions, and helped test it before it went up on Vercel.
 
 ### Smart Chatbot
-AI-powered chat application built with React, modular CSS and Redux Toolkit.
+An earlier React project, also with modular CSS.
 
-- Managed chat history and application state with Redux Toolkit.
-- Built a responsive interface for multiple screen sizes.
+- Here I was the one sorting out chat history and state with Redux Toolkit, so conversations didn't break on smaller screens.
 
 ## Achievements & Education
 
