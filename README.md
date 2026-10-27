@@ -1,6 +1,6 @@
 # Hi, I'm Abhishek Kumar Gautam
 
-I'm Abhishek, from Greater Noida. I finished my B.Tech in computer science from Galgotias University in 2026, and I'm looking for an entry-level full-stack job. I like building things people can actually use, not just something that looks good in a screenshot.
+I'm Abhishek, from Greater Noida. I'm looking for an entry-level full-stack job. I like building things people can actually use, not just something that looks good in a screenshot.
 
 ## Technical Skills
 
