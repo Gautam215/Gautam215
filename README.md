@@ -63,7 +63,7 @@ A team project workspace I built with Next.js and PostgreSQL, for organizing pro
 - Private task attachments with content validation, scoped access, short-lived signed downloads, version-checked replacement, and 30-day retention logic.
 - Permission-aware workspace search and project analytics calculated from authorized PostgreSQL data.
 
-This one is still in active development, not a production service, and it has no live demo link — so I'm only listing the work above, not the remaining PRD work.
+Work on this is still ongoing.
 
 ### Campus Connect Portal
 A college site I built with a team, in React with modular CSS.
