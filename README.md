@@ -53,6 +53,18 @@ This is the project I spent most of my time on. It started as a simple way to br
 - Favourites, what you watched, and confirmed bookings all sit in MongoDB, with email/password sign-in and cookie sessions.
 - At one point the API calls were just piling up, so I put a limit in place — 120 requests in 60 seconds. That fixed a lot of headaches. It's deployed on Vercel with GitHub Actions CI.
 
+### Nexora
+**[Source Code](https://github.com/Gautam215/nexora)**
+
+A team project workspace I built with Next.js and PostgreSQL, for organizing projects, milestones, tasks, and collaboration in one tenant-scoped product.
+
+- Accounts with email verification, password reset, database-backed sessions, and rate limits, plus organization and project roles with tenant-aware PostgreSQL row-level security.
+- Projects, milestones, tasks, configurable workflows, Kanban/list views, comments, mentions, activity, and in-app notifications.
+- Private task attachments with content validation, scoped access, short-lived signed downloads, version-checked replacement, and 30-day retention logic.
+- Permission-aware workspace search and project analytics calculated from authorized PostgreSQL data.
+
+This one is still in active development, not a production service, and it has no live demo link — so I'm only listing the work above, not the remaining PRD work.
+
 ### Campus Connect Portal
 A college site I built with a team, in React with modular CSS.
 
